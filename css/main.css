@@ -1,0 +1,19 @@
+body{
+  margin:0;
+  padding: 0;
+}
+a img{
+  width: auto;
+  height: 400px;
+}
+
+.rad{
+  width: 1208px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.soon{
+  opacity: 50%;
+}
